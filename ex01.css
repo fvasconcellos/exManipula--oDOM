@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#tab {
+    padding: 25px;
+}
+
+h1 {
+    padding-bottom: 10px;
+}
+
+#tabuada {
+    border: 1px solid gray;
+    border-radius: 3px;
+    font-size: 14px;
+    padding: 2px;
+    width: 140px;
+}
+
+#button {
+    border: none;
+    border-radius: 3px;
+    background: green;
+    color: white;
+    padding: 4px 10px;
+    cursor: pointer;
+}
